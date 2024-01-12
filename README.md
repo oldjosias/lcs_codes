@@ -1,6 +1,6 @@
 # lcs_codes
 
-Data related to the research paper [*Lift-Connected Surface Codes*](https://doi.org/10.48550/arXiv.2401.02911/)
+Data related to the research paper *Lift-Connected Surface Codes* [arXiv:2401.02911](https://doi.org/10.48550/arXiv.2401.02911/)
 
 ## Files:
 - `data.csv` contains data obtained from numerical simulations
